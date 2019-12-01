@@ -1,0 +1,26 @@
+PODS:
+  - RxBlocking (5.0.0):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - RxTest (5.0.0):
+    - RxSwift (~> 5)
+
+DEPENDENCIES:
+  - RxBlocking
+  - RxSwift
+  - RxTest
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RxBlocking
+    - RxSwift
+    - RxTest
+
+SPEC CHECKSUMS:
+  RxBlocking: c67185d26498ea3cbe3e121917c3c16739e43123
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  RxTest: 4349afe98f564e0a9bc19063368904622d17d49a
+
+PODFILE CHECKSUM: 8b16f17133dff987a49dde300cd8eb448593980e
+
+COCOAPODS: 1.7.3
